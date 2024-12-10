@@ -1,3 +1,3 @@
-# Lama Dev Animated 3D Portfolio Website Project
+# Immaculate's 3D Animated Portfolio website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the portfolio website I created for Immaculate, a client. 
